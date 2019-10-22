@@ -1,0 +1,13 @@
+E:\Angular\ExploreApi\Explore.Model\bin\Debug\Explore.Model.dll.config
+E:\Angular\ExploreApi\Explore.Model\bin\Debug\Explore.Model.dll
+E:\Angular\ExploreApi\Explore.Model\bin\Debug\Explore.Model.pdb
+E:\Angular\ExploreApi\Explore.Model\obj\Debug\Explore.Model.csprojResolveAssemblyReference.cache
+E:\Angular\ExploreApi\Explore.Model\obj\Debug\Explore.Model.dll
+E:\Angular\ExploreApi\Explore.Model\obj\Debug\Explore.Model.pdb
+E:\Angular\Ex\ExploreApi\Explore.Model\bin\Debug\Explore.Model.dll.config
+E:\Angular\Ex\ExploreApi\Explore.Model\bin\Debug\Explore.Model.dll
+E:\Angular\Ex\ExploreApi\Explore.Model\bin\Debug\Explore.Model.pdb
+E:\Angular\Ex\ExploreApi\Explore.Model\obj\Debug\Explore.Model.csprojAssemblyReference.cache
+E:\Angular\Ex\ExploreApi\Explore.Model\obj\Debug\Explore.Model.csproj.CoreCompileInputs.cache
+E:\Angular\Ex\ExploreApi\Explore.Model\obj\Debug\Explore.Model.dll
+E:\Angular\Ex\ExploreApi\Explore.Model\obj\Debug\Explore.Model.pdb
